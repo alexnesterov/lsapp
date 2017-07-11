@@ -19,6 +19,7 @@
         <div class="container">
             @include('includes.messages')
             @yield('content')
+            <p>Created by this course <a href="https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-" target="_blank">Laravel From Scratch</a></p>
         </div>
     </div>
 
